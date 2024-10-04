@@ -1,5 +1,7 @@
 # Redis
 
+> **Archived as we do not plan to rely on Redis modules in the future anymore**
+
 This is a downstream image of [Bitnami's Redis image](https://github.com/bitnami/containers/tree/main/bitnami/redis), with the following additional modules:
 - [RedisJSON](https://github.com/RedisJSON/RedisJSON)
 - [RediSearch](https://github.com/RediSearch/RediSearch)
